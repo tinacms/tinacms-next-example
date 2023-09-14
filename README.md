@@ -1,3 +1,5 @@
+> Please cleckout our [barebones starter](https://github.com/tinacms/tina-barebones-starter) for an example of how to use next.js with TinaCMS
+
 # A statically generated blog example using Next.js and TinaCMS
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [TinaCMS](https://tina.io/) as the CMS and editor.
